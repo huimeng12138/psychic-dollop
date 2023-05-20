@@ -1,5 +1,5 @@
  {
-  "name": "机场图标",
+  "name": "周杰伦的自用机场图标",
   "description": "机场图标",
   "icons": [
     {
@@ -11,6 +11,9 @@
     },{
       "name": "uni",
       "url": "https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/uni.png"
+    },{
+      "name": "mfy",
+      "url": "https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/mfy.png"
     }
     ]
 }
