@@ -4,13 +4,13 @@
   "icons": [
     {
       "name": "XSUS",
-      "url": "https://github.com/huimeng12138/psychic-dollop/blob/main/jichangtubiao/XSUS.png"
+      "url": "https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/XSUS.png"
     },{
       "name": "byg",
-      "url": "https://github.com/huimeng12138/psychic-dollop/blob/main/jichangtubiao/byg.png"
+      "url": "https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/byg.png"
     },{
       "name": "uni",
-      "url": "https://github.com/huimeng12138/psychic-dollop/blob/main/jichangtubiao/uni.png"
+      "url": "https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/uni.png"
     }
     ]
 }
