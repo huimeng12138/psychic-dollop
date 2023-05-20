@@ -1,0 +1,16 @@
+ {
+  "name": "机场图标",
+  "description": "机场图标",
+  "icons": [
+    {
+      "name": "XSUS",
+      "url": "https://github.com/huimeng12138/psychic-dollop/blob/main/jichangtubiao/XSUS.png"
+    },{
+      "name": "byg",
+      "url": "https://github.com/huimeng12138/psychic-dollop/blob/main/jichangtubiao/byg.png"
+    },{
+      "name": "uni",
+      "url": "https://github.com/huimeng12138/psychic-dollop/blob/main/jichangtubiao/uni.png"
+    }
+    ]
+}
