@@ -2,7 +2,10 @@
   "name": "周杰伦的自用机场图标",
   "description": "机场图标",
   "icons": [
-    {
+	{
+      "name": "魔法云",
+      "url": "https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/%E9%AD%94%E6%B3%95%E4%BA%91.png"
+    }, {
       "name": "XSUS",
       "url": "https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/XSUS.png"
     },{
