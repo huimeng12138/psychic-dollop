@@ -3,7 +3,7 @@
   "description": "机场图标",
   "icons": [
 	{
-      "name": "魔法云",
+      "name": "Magic",
       "url": "https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/%E9%AD%94%E6%B3%95%E4%BA%91.png"
     }, {
       "name": "XSUS",
@@ -11,9 +11,6 @@
     },{
       "name": "byg",
       "url": "https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/byg.png"
-    },{
-      "name": "uni",
-      "url": "https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/uni.png"
     },{
       "name": "mfy",
       "url": "https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/mfy.png"
@@ -34,7 +31,7 @@
   "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Hxlm.png"},{
 	  "name":"Kele", 
   "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/kele.png"},{
-	  "name":"魔法学院", 
-  "url":"https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/Mofaxueyuan.png"}
+	 "name":"NaiU", 
+  "url":"https://raw.githubusercontent.com/huimeng12138/psychic-dollop/main/jichangtubiao/NaiU.png"}
   ]
 }
